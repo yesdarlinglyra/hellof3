@@ -1,0 +1,14 @@
+{
+  "name": "ldarling/328/hellof3",
+  "description": "My first MVC F3 Project",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Lyra Darling",
+      "email": "darling.lyra@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
